@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const library = require('library');
+const library = require('npm-example-library');
 
 let controller = function(req, res) {
     let libraryModule1 = library.module1;
