@@ -1,0 +1,13 @@
+{
+  "name": "npm-example-express",
+  "version": "0.0.1",
+  "private": true,
+  "engine": "node 6.10.2",
+  "description": "npm-example-express",
+  "main": "app.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.2",
+    "library": "git://github.com/aerian-studios/npm-example-library.git#master"
+  }
+}
