@@ -8,6 +8,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.16.2",
-    "npm-example-library": "git+https://github.com/aerian-studios/npm-example-library.git"
+    "npm-example-library": "git://github.com/aerian-studios/npm-example-library.git"
   }
 }
